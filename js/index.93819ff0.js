@@ -703,7 +703,7 @@
                     attrs: {
                         href: "/"
                     }
-                }, [t._v("CCF Rec. Conference Deadlines")])], 1)], 1)
+                }, [t._v("Go Ahead PHD")])], 1)], 1)
             },
             c = [],
             d = function() {
