@@ -675,27 +675,7 @@
                         color: "#666666",
                         "font-size": "12px"
                     }
-                }, [s("div", [t._v("ccf-deadlines is maintained by "), s("a", {
-                    attrs: {
-                        href: "https://github.com/jacklightChen"
-                    }
-                }, [t._v("@jacklightChen")]), t._v(" and "), s("a", {
-                    attrs: {
-                        href: "https://github.com/0x4f5da2"
-                    }
-                }, [t._v("@0x4f5da2")]), t._v(".")]), s("div", {
-                    staticStyle: {
-                        "padding-top": "3px"
-                    }
-                }, [t._v("If you find it useful, try find "), s("a", {
-                    attrs: {
-                        href: "https://github.com/0x4f5da2"
-                    }
-                }, [t._v("him")]), t._v(" a girlfriend or follow "), s("a", {
-                    attrs: {
-                        href: "https://www.researchgate.net/profile/Zhihao_Chen23"
-                    }
-                }, [t._v("him")]), t._v(" on ResearchGate.")])]), s("div", {
+                }), s("div", {
                     staticStyle: {
                         float: "right"
                     }
