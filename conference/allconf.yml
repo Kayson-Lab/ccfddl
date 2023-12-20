@@ -2406,19 +2406,6 @@
   rank: B
   dblp: dsn
   confs:
-    - year: 2022
-      id: dsn22
-      link: https://dsn2022.github.io/
-      timeline:
-        - deadline: '2021-12-03 23:59:59'
-          comment: 'Abstract submission deadline'
-        - deadline: '2021-12-10 23:59:59'
-          comment: 'Paper submission deadline'
-        - deadline: '2022-03-14 23:59:59'
-          comment: 'Notification to authors'
-      timezone: AoE
-      date: June 27-30, 2022
-      place: Baltimore, Maryland, USA
     - year: 2024
       id: dsn24
       link: https://dsn2024uq.github.io
@@ -2466,15 +2453,6 @@
   rank: C
   dblp: icics
   confs:
-    - year: 2021
-      id: icics21
-      link: https://icics.cn/
-      timeline:
-        - deadline: '2021-05-22 23:59:59'
-          comment: 'Paper Submission deadline'
-      timezone: AoE
-      date: September 17-19, 2021
-      place: Chongqing, China
     - year: 2023
       id: icics23
       link: https://icics23.nankai.edu.cn/
@@ -2843,24 +2821,6 @@
   rank: B
   dblp: icdcs
   confs:
-    - year: 2020
-      id: icdcs20
-      link: https://icdcs2020.sg/
-      timeline:
-        - abstract_deadline: '2020-01-06 23:59:59'
-          deadline: '2020-01-13 23:59:59'
-      timezone: UTC-7
-      date: July 8-10, 2020
-      place: Singapore
-    - year: 2021
-      id: icdcs21
-      link: https://icdcs2021.us/
-      timeline:
-        - abstract_deadline: '2021-01-06 23:59:59'
-          deadline: '2021-01-13 23:59:59'
-      timezone: UTC-5
-      date: July 7-10, 2021
-      place: Virtual
     - year: 2022
       id: icdcs22
       link: https://icdcs2022.icdcs.org/
@@ -2946,22 +2906,6 @@
   rank: A
   dblp: fast
   confs:
-    - year: 2021
-      id: fast21
-      link: https://www.usenix.org/conference/fast21/
-      timeline:
-        - deadline: '2020-09-24 23:59:59'
-      timezone: UTC-7
-      date: Feburary 23-25, 2021
-      place: Virtual
-    - year: 2022
-      id: fast22
-      link: https://www.usenix.org/conference/fast22/
-      timeline:
-        - deadline: '2021-09-23 23:59:59'
-      timezone: UTC-7
-      date: Feburary 21-24, 2022
-      place: SANTA CLARA, CA, USA
     - year: 2023
       id: fast23
       link: https://www.usenix.org/conference/fast23
@@ -3083,14 +3027,6 @@
   rank: A
   dblp: asplos
   confs:
-    - year: 2021
-      id: asplos21
-      link: https://asplos-conference.org/
-      timeline:
-        - deadline: '2020-08-21 23:59:59'
-      timezone: AoE
-      date: April 19-23, 2021
-      place: Virtual
     - year: 2022
       id: asplos22
       link: https://asplos-conference.org/
@@ -3343,23 +3279,21 @@
       timezone: AoE
       date: August 28-September 1, 2023
       place: Limassol, Cyprus
+    - year: 2024
+      id: euro-par24
+      link: https://2024.euro-par.org
+      timeline:
+        - abstract_deadline: '2024-03-25 23:59:59'
+          deadline: '2024-03-25 23:59:59'
+      timezone: AoE
+      date: 26 - 30 August,2024
+      place: Madrid, Spain
 - title: HPCA
   description: IEEE International Symposium on High-Performance Computer Architecture
   sub: DS
   rank: A
   dblp: hpca
   confs:
-    - year: 2022
-      id: hpca22
-      link: https://hpca-conf.org/2022/
-      timeline:
-        - deadline: '2021-07-23 23:59:59'
-          comment: 'abstract deadline'
-        - deadline: '2021-07-30 23:59:59'
-          comment: 'full paper deadline'
-      timezone: UTC+0
-      date: Feb 12-16, 2022
-      place: Seoul, South Korea
     - year: 2023
       id: hpca23
       link: https://hpca-conf.org/2023/
@@ -3498,6 +3432,15 @@
         - deadline: '2023-04-06 23:59:00'
       timezone: AoE
       date: November 12-17, 2023
+      place: DENVER, CO, USA
+    - year: 2024
+      id: sc24
+      link: https://sc24.supercomputing.org/
+      timeline:
+        - abstruct deadline: '2024-03-26 23:59:59'
+        - deadline: '2024-04-02 23:59:59'
+      timezone: AoE
+      date: November 17-22, 2024
       place: DENVER, CO, USA
 - title: ISPA
   description: IEEE International Symposium on Parallel and Distributed Processing with Applications
