@@ -703,41 +703,7 @@
                     attrs: {
                         href: "/"
                     }
-                }, [t._v("CCF Rec. Conference Deadlines")]), s("github-button", {
-                    staticStyle: {
-                        "padding-left": "5px"
-                    }
-                }), t.showLatestConf ? s("span", {
-                    staticStyle: {
-                        color: "#fd3c95",
-                        "font-weight": "bold"
-                    }
-                }, [t._v("Latest: " + t._s(this.showStr) + " !!!")]) : t._e()], 1), s("el-row", {
-                    staticClass: "subtitle"
-                }, [t._v(" CCF Recommendation Conference Deadline Countdowns. To add/edit a conference, "), s("a", {
-                    staticStyle: {
-                        color: "#666666"
-                    },
-                    attrs: {
-                        href: "https://github.com/ccfddl/ccf-deadlines/pulls"
-                    }
-                }, [t._v("send a pull request.")])]), s("el-row", {
-                    staticClass: "subtitle"
-                }, [t._v(" Preview tabular demo: "), s("a", {
-                    staticStyle: {
-                        color: "#666666"
-                    },
-                    attrs: {
-                        href: "https://ccfddl.top/"
-                    }
-                }, [t._v("https://ccfddl.top/")]), t._v(", or scan to try "), s("a", {
-                    staticStyle: {
-                        color: "#666666"
-                    },
-                    attrs: {
-                        href: "https://github.com/ccfddl/ccf-deadlines/blob/main/.readme_assets/applet_qrcode.jpg"
-                    }
-                }, [t._v("wechat applet")]), t._v(". ")])], 1)
+                }, [t._v("CCF Rec. Conference Deadlines")])], 1)], 1)
             },
             c = [],
             d = function() {
