@@ -2872,6 +2872,23 @@
       timezone: AoE
       date: October 31-November 3, 2023
       place: Santa Fe, New Mexico, USA
+- title: SPAA
+  description: ACM Symposium on Parallelism in Algorithms and Architectures
+  sub: DS
+  rank: B
+  dblp: spaa
+  confs:
+    - year: 2024
+      id: spaa24
+      link: https://spaa.acm.org/
+      timeline:
+        - deadline: '2024-01-19 23:59:59'
+          comment: 'Abstract registration'
+        - deadline: '2024-01-24 23:59:59'
+          comment: 'Full papers submission'
+      timezone: AoE
+      date: June 17—21, 2024
+      place: Nantes, France
 - title: FCCM
   description: IEEE Symposium on Field-Programmable Custom Computing Machines
   sub: DS
